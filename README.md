@@ -1,3 +1,4 @@
+Demo Video link - https://drive.google.com/file/d/1a-ZIgcEFb9YosI8QDdja7E28p4nNQZnd/view?usp=sharing
 # 🧩 queuectl
 
 A **lightweight production-style background job queue CLI** built with Node.js.  
@@ -21,7 +22,12 @@ Supports **multi-process workers**, **retry with exponential backoff**, **Dead L
 
 ## ⚙️ Installation
 
+
+
 ```bash
+# clone the repository
+git clone https://github.com/NavdeepSingh01/queuectl.git
+
 # Install dependencies
 npm install
 
@@ -229,3 +235,6 @@ CREATE TABLE config(
 <!-- end list -->
 
 ```
+Author- Navdeep Singh Saluja
+Mail - ssaluja208@gmail.com
+
