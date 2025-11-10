@@ -28,6 +28,8 @@ Supports **multi-process workers**, **retry with exponential backoff**, **Dead L
 # clone the repository
 git clone https://github.com/NavdeepSingh01/queuectl.git
 
+cd queuectl
+
 # Install dependencies
 npm install
 
